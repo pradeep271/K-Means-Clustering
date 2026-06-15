@@ -1,7 +1,6 @@
 # K-Means Customer Segmentation: Understanding the Impact of K on Clustering Quality
 
-**Author:** K Pradeep Raj
-**Roll Number:** 24145399
+**Author:** K Pradeep Raj (24145399)
 ---
 
 ## Project Overview
