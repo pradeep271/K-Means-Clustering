@@ -1,4 +1,4 @@
-# K-Means Customer Segmentation: Understanding the Impact of K on Clustering Quality
+# Understanding K-Means Clustering: How the Number of Clusters (K) Impacts Machine Learning Performance
 
 **Author:** K Pradeep Raj (24145399)
 ---
