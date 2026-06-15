@@ -1,6 +1,7 @@
 # K-Means Customer Segmentation: Understanding the Impact of K on Clustering Quality
 
 **Author:** K Pradeep Raj
+
 **Roll Number:** 24145399
 ---
 
@@ -152,60 +153,6 @@ To address these concerns, clustering results should support human decision-maki
 
 ---
 
-## Repository Structure
-
-KMeans-Customer-Segmentation/
-
-├── README.md
-
-├── LICENSE
-
-├── report.pdf
-
-├── report.md
-
-├── kmeans_customer_segmentation.ipynb
-
-├── requirements.txt
-
-├── data/
-
-│ └── Mall_Customers.csv
-
-└── figures/
-
-├── customer_distribution.png
-
-├── elbow_method.png
-
-├── silhouette_analysis.png
-
-├── final_clusters.png
-
-└── k_comparison.png
-
----
-
-## Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/KMeans-Customer-Segmentation.git
-
-Install required packages:
-
-pip install -r requirements.txt
-
-Launch Jupyter Notebook:
-
-jupyter notebook
-
-Open:
-
-kmeans_customer_segmentation.ipynb
-
----
-
 ## Dependencies
 
 * Python 3.x
@@ -229,11 +176,9 @@ Bishop, C. M. (2006). Pattern Recognition and Machine Learning.
 
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning.
 
-Scikit-Learn Documentation:
-https://scikit-learn.org
-
 ---
 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+This is to hereby declare that this project can be used by anyone for learning and implementing into thier work and requesting to give suitable comments and  reviews regrading any add-ons or changes to be done in the code. 
