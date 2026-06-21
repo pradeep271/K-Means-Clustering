@@ -169,19 +169,19 @@ K-Means-Clustering/
 
 Outputs/
 
-├── Dataset classification.png
+ ├── Dataset classification.png
 
-├── Elbow Method.png
+ ├── Elbow Method.png
 
-├── Silhouette Analysis.png
+ ├── Silhouette Analysis.png
 
-├── K-Means Customer Segmentation.png
+ ├── K-Means Customer Segmentation.png
 
-├── Comparision of different K values.png
+ ├── Comparision of different K values.png
 
-├── hyperparameter tuning.png
+ └── K_Means_Clustering.ipynb
 
-├── K_Means_Clustering (1).ipynb
+|──K_Means_Clustering (1).ipynb
 
 ├── LICENSE
 
