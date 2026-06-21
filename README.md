@@ -371,17 +371,22 @@ Potential extensions include:
 
 ## 📚 References
 
-* 📖 MacQueen, J. (1967)
-* 📖 Lloyd, S. (1982)
-* 📖 Arthur & Vassilvitskii (2007)
-* 📖 Bishop (2006)
-* 📖 Hastie, Tibshirani & Friedman (2009)
+MacQueen, J. (1967). Some Methods for Classification and Analysis of Multivariate Observations.
+
+Lloyd, S. (1982). Least Squares Quantization in PCM.
+
+Arthur, D., & Vassilvitskii, S. (2007). k-means++: The Advantages of Careful Seeding.
+
+Bishop, C. M. (2006). Pattern Recognition and Machine Learning.
+
+Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning.
 
 ---
 
 ## ⚖️ License
 
 Licensed under the **MIT License**.
+The project is created for academic purpose, you may reuse the code with proper attribution
 
 ---
 
