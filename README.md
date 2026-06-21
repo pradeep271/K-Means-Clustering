@@ -165,7 +165,15 @@ Repository Structure
 
 K-Means-Clustering/
 
-├── Outputs
+├── KMeans_report.pdf
+
+├── Outputs/
+│   ├── dataset_classification.png
+│   ├── elbow_method.png
+│   ├── silhouette_analysis.png
+│   ├── customer_segmentation.png
+│   ├── comparison_k_values.png
+│   └── hyperparameter_tuning.png
 
 ├── K_Means_Clustering (1).ipynb
 
