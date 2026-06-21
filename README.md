@@ -181,7 +181,7 @@ Outputs/
 
  └── K_Means_Clustering.ipynb
 
-|──K_Means_Clustering (1).ipynb
+├──K_Means_Clustering (1).ipynb
 
 ├── LICENSE
 
