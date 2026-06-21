@@ -161,6 +161,22 @@ To address these concerns, clustering results should support human decision-maki
 * Jupyter Notebook
 
 ---
+Repository Structure
+
+K-Means-Clustering/
+
+├── Outputs
+
+├── K_Means_Clustering (1).ipynb
+
+├── LICENSE
+
+├── Mall_Customers.csv
+
+├── README.md
+
+├── requirements.txt
+
 
 ## References
 
