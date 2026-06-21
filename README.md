@@ -165,8 +165,6 @@ Repository Structure
 
 K-Means-Clustering/
 
-├── KMeans_report.pdf
-
 Outputs/
 
  ├── Comparision of different K values.png
@@ -181,7 +179,9 @@ Outputs/
 
  └── hyperparameter tuning.png
 
- ├──K_Means_Clustering_(1).ipynb
+ ├── KMeans_report.pdf
+ 
+├──K_Means_Clustering_(1).ipynb
 
 ├── LICENSE
 
