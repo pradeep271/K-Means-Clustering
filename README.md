@@ -177,9 +177,7 @@ Outputs/
 
  ├── K-Means Customer Segmentation.png
 
- ├── Comparision of different K values.png
-
- └── K_Means_Clustering.ipynb
+ └── Comparision of different K values.png
 
  ├──K_Means_Clustering_(1).ipynb
 
