@@ -169,7 +169,7 @@ Outputs/
 
  ├── Comparision of different K values.png
 
- ├── DAtaset classification.png
+ ├── Dataset classification.png
 
  ├── Elbow Method.png
 
