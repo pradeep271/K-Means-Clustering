@@ -167,14 +167,15 @@ K-Means-Clustering/
 
 ├── KMeans_report.pdf
 
-├── Outputs/
-│   ├── dataset_classification.png
-│   ├── elbow_method.png
-│   ├── silhouette_analysis.png
-│   ├── customer_segmentation.png
-│   ├── comparison_k_values.png
-│   └── hyperparameter_tuning.png
-
+Outputs/
+│
+├── Dataset classification.png
+├── Elbow Method.png
+├── Silhouette Analysis.png
+├── K-Means Customer Segmentation.png
+├── Comparision of different K values.png
+├── hyperparameter tuning.png
+└── KMeans_report.pdf
 ├── K_Means_Clustering (1).ipynb
 
 ├── LICENSE
